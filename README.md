@@ -485,7 +485,7 @@ If you found this project helpful, consider giving it a ⭐ Star on GitHub.
 
 **Single Repo:** [101-subscription-saas](https://github.com/raviteja-dev950/101-subscription-saas)
 
-**Live URL:** https://one01-subscription-saas.onrender.com/
+**Live URL:** https://one01-subscription-saas.onrender.com/ 
 
 **Deploy:** Deploy succeeded | Live Green Tick - DURATION 3m50s - DEPLOYED Nov 5 2026 at 12:15:00 AM GMT+5:30 - TRIGGER First Deploy - SOURCE abc123f - Your service is live - Available at primary URL https://one01-subscription-saas.onrender.com - Docker Multi-Stage - Same as 100 Live 3m49s - Tenant FIXED from [] empty to 2 items - trim() fix - Subscription Pattern Plan Status Tenant Hybrid sorted price DESC 299.99,99.99,29.99,9.99!
 
